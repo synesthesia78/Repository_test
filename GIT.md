@@ -16,4 +16,5 @@ https://git-fork.com/
     - add file
     - remove file
     - edit file
+- Branch: ramificazione dei commit per modifiche potenzialmente distruttive
 
