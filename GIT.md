@@ -17,4 +17,5 @@ https://git-fork.com/
     - remove file
     - edit file
 - Branch: ramificazione dei commit per modifiche potenzialmente distruttive
+- Push: invio delle commit (NON DEI FILE) su una repository online
 
