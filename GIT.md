@@ -12,4 +12,8 @@ https://git-fork.com/
 
 # Glossario:
 - Repository: cartella versionata
+- Commit: stato delle modifiche ad una cartella:
+    - add file
+    - remove file
+    - edit file
 
